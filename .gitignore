@@ -1,0 +1,56 @@
+# ==========================================
+# .gitignore for Academic Lab Reports
+# ==========================================
+
+# --- Operating System Junk ---
+# Prevents Mac and Windows hidden folder settings from uploading
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+desktop.ini
+
+# --- Microsoft Office Temp Files ---
+# Prevents temporary files created while a document is actively open
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+~$*.rtf
+
+# --- LaTeX Build Files ---
+# Ignores all the messy background files LaTeX generates when compiling
+# (Note: This still allows your actual .tex source code and final .pdf files to upload)
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.brf
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.toc
+*.synctex.gz
+*.nav
+*.snm
+*.vrb
+
+# --- Python & Jupyter Notebooks ---
+# Ignores compiled Python code and Jupyter autosaves
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.pytest_cache/
+
+# --- macOS / IDE Folders ---
+# Ignores workspace settings from text editors like VS Code
+.vscode/
+.idea/
+*.swp
