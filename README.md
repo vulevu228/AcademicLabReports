@@ -7,9 +7,9 @@ Welcome to my repository of university lab reports and practical assignments. Th
 This repository contains reports from various laboratory sessions, documenting experimental procedures, data analysis, and scientific conclusions. 
 
 ### Subjects Covered
-*   **Year 1** - *Math 1/2, Electrical Engineering 1/2, ELectronics 1/2, Java, C*
-*   **Year 2** - *Databases, Algorithms and Structures, Digital Circuits, Digital Systems, Software Engineering*
-*   **Year 3** - *Bus Systems, Digital Communication Systems, Digital Signal Processing, Microcontrollers, Operating Systems *
+*   **Year 1** - Math 1/2, Electrical Engineering 1/2, ELectronics 1/2, Java, C
+*   **Year 2** - Databases, Algorithms and Structures, Digital Circuits, Digital Systems, Software Engineering
+*   **Year 3** - Bus Systems, Digital Communication Systems, Digital Signal Processing, Microcontrollers, Operating Systems
 
 ## 🛠️ Tools & Technologies Used
 Throughout these labs, I utilized a variety of tools for data collection, analysis, and report generation:
