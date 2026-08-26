@@ -7,10 +7,9 @@ Welcome to my repository of university lab reports and practical assignments. Th
 This repository contains reports from various laboratory sessions, documenting experimental procedures, data analysis, and scientific conclusions. 
 
 ### Subjects Covered
-*   **[Subject 1, e.g., Physics]** - *Mechanics, Thermodynamics, Electromagnetism*
-*   **[Subject 2, e.g., Chemistry]** - *Organic Synthesis, Titration Kinetics*
-*   **[Subject 3, e.g., Computer Science]** - *Data structures, Algorithm Analysis*
-*(Note: Update these subjects to match your actual courses!)*
+*   **[Year 1]** - *Math 1/2, Electrical Engineering 1/2, ELectronics 1/2, Java, C*
+*   **[Year 2]** - *Databases, Algorithms and Structures, Digital Circuits Digital Systems, *
+*   **[Year 3]** - *Bus Systems, Digital Communication Systems, Digital Signal Processing, Microcontrollers *
 
 ## 🛠️ Tools & Technologies Used
 Throughout these labs, I utilized a variety of tools for data collection, analysis, and report generation:
